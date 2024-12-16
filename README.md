@@ -99,11 +99,6 @@ The notebook produces the following outputs:
 4. **Histograms**:
    - Visualization of sampled resonance masses and resulting distributions.
 
----
-
-## Acknowledgments
-
-This project is inspired by theoretical and computational techniques in high-energy physics, particularly in the study of particle decays and numerical solutions of equations of motion. Special thanks to any external references or collaborators involved.
 
 ---
 
